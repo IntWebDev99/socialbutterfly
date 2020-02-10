@@ -48,7 +48,7 @@
       "email": "jktiner101@integratedwebsitedevelopment.company"
     },
     "PWA": {
-      "enabled": true,
+      "enabled": false,
       "name": "SOCIALBUTTERFLYAPPM4",
       "icon": "@PROJECT_PATH@/assets/images/129679192-abstract-high-tech-eye-concept.jpg512.jpg4096-512x512_1.png",
       "themeColor": "#7fa8d7"
@@ -62,27 +62,11 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "opacityOverlay": "80",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "Agree"
-    },
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
     "pwa-switcher": true,
     "uniqCompNum": 32,
-    "versionPublish": "4.11.6"
+    "versionPublish": "4.11.6",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
