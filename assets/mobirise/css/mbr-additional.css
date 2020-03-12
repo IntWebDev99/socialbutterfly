@@ -876,10 +876,10 @@ section.lazy-placeholder:after {
   flex-direction: row-reverse;
 }
 .cid-rRRXk6WI0k {
-  background: #149dcc;
+  background: #55b4d4;
   padding-top: 60px;
   padding-bottom: 60px;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
+  background: linear-gradient(0deg, #55b4d4, #ffffff);
 }
 .cid-rRRXk6WI0k .video-block {
   margin: auto;
@@ -892,7 +892,7 @@ section.lazy-placeholder:after {
 .cid-rRRZQMA5P4 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background7.jpg");
+  background-image: url("../../../assets/images/butterfly-face-adobestock-294197376.jpeg");
 }
 .cid-rRRZQMA5P4 .container-fluid {
   padding: 0 3rem;
@@ -920,12 +920,12 @@ section.lazy-placeholder:after {
   transition: all .2s;
   text-align: center;
   border-top: none;
-  border-bottom: 1px solid #5b5b5b;
+  border-bottom: 1px solid #000000;
   color: white;
   vertical-align: middle;
 }
 .cid-rRRZQMA5P4 table tr {
-  border-bottom: 1px solid #c1c1c1;
+  border-bottom: 1px solid #073b4c;
   border-top: none;
 }
 .cid-rRRZQMA5P4 table td {
@@ -934,7 +934,7 @@ section.lazy-placeholder:after {
   border: none;
 }
 .cid-rRRZQMA5P4 tr:hover {
-  background-color: #fac769 !important;
+  background-color: #ff3366 !important;
 }
 .cid-rRRZQMA5P4 .head-item:after,
 .cid-rRRZQMA5P4 .head-item:before {
@@ -950,7 +950,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rRRZQMA5P4 .mbr-text {
-  color: #767676;
+  color: #073b4c;
 }
 .cid-rRRZQMA5P4 .head-item {
   color: #232323;
@@ -1061,10 +1061,62 @@ section.lazy-placeholder:after {
   width: 100%;
   color: #ffffff;
 }
+.cid-rT3WgE2fDC {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.cid-rT3WgE2fDC h2 {
+  margin-bottom: 0;
+}
+.cid-rT3WgE2fDC h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
+}
+.cid-rT3WgE2fDC p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rT3WgE2fDC .card-wrapper {
+  border-top: 1px solid #073b4c;
+  background-color: #0f7699;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rT3WgE2fDC .card-wrapper .card-box {
+  padding: 2rem 1rem;
+  width: 100%;
+}
+.cid-rT3WgE2fDC .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rT3WgE2fDC .card-wrapper .card-box .bottom-line {
+  width: 70%;
+}
+@media (max-width: 767px) {
+  .cid-rT3WgE2fDC .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-rT3WgE2fDC .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-rT3WgE2fDC P {
+  color: #cc2952;
+}
+.cid-rT3WgE2fDC .card-title {
+  color: #073b4c;
+}
+.cid-rT3WgE2fDC H2 {
+  color: #073b4c;
+}
 .cid-rRRXMGh9Cf {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f4f8fa;
+  background-color: #55b4d4;
 }
 .cid-rRRXMGh9Cf .mbr-iconfont {
   font-size: 50px;
@@ -1073,6 +1125,7 @@ section.lazy-placeholder:after {
 }
 .cid-rRRXMGh9Cf .mbr-section-title {
   margin: 0;
+  color: #073b4c;
 }
 .cid-rRRXMGh9Cf .mbr-section-subtitle {
   color: #8d97ad;
@@ -1098,14 +1151,18 @@ section.lazy-placeholder:after {
 }
 .cid-rRRXMGh9Cf .wrapper {
   padding: 2.5rem 1rem;
-  background: #ffffff;
+  background: #ff3366;
   border-radius: 5px;
   box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+.cid-rRRXMGh9Cf .mbr-card-title,
+.cid-rRRXMGh9Cf .card-img {
+  color: #55b4d4;
 }
 .cid-rRRXUikEpA {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f4f8fa;
+  background-color: #55b4d4;
 }
 .cid-rRRXUikEpA .mbr-iconfont {
   font-size: 50px;
@@ -1114,6 +1171,7 @@ section.lazy-placeholder:after {
 }
 .cid-rRRXUikEpA .mbr-section-title {
   margin: 0;
+  color: #073b4c;
 }
 .cid-rRRXUikEpA .mbr-section-subtitle {
   color: #8d97ad;
@@ -1139,9 +1197,13 @@ section.lazy-placeholder:after {
 }
 .cid-rRRXUikEpA .wrapper {
   padding: 2.5rem 1rem;
-  background: #ffffff;
+  background: #ff3366;
   border-radius: 5px;
   box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+.cid-rRRXUikEpA .mbr-card-title,
+.cid-rRRXUikEpA .card-img {
+  color: #55b4d4;
 }
 .cid-rRSdDdVbWT {
   background-image: url("../../../assets/images/butterfly-face-adobestock-294197376.jpeg");
@@ -1237,6 +1299,12 @@ section.lazy-placeholder:after {
     width: 100% !important;
     height: auto !important;
   }
+}
+.cid-rRRZHb8Cnh .mbr-section-subtitle {
+  color: #073b4c;
+}
+.cid-rRRZHb8Cnh H2 {
+  color: #073b4c;
 }
 .cid-rRSdgKAYGC {
   padding-top: 90px;
