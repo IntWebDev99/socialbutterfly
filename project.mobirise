@@ -40,7 +40,19 @@
     ],
     "uniqCompNum": 28,
     "versionPublish": "4.11.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "noImageResize": false,
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "lazyType": "nothing",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
@@ -2019,7 +2031,7 @@
                 "sale": "SALE",
                 "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amount=15.99&item_name=Social+Curation&currency_code=USD\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7\">Pay Now</a>",
                 "image": "file:///C:/Users/Bubba/AppData/Local/Mobirise.com/Mobirise/projects/project-2020-02-18_172534/assets/images/dreamstime_xl-101680029-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dreamstime-xl-101680029-2000x1333-800x5331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dreamstime-xl-101680029-2000x1333-800x5332.jpg",
                 "customStyle5": "display-5",
                 "customStyle7": "display-7",
                 "customStyleSale": "display-4",
